@@ -9,6 +9,8 @@
 [![Claude AI](https://img.shields.io/badge/AI-Claude%20Sonnet-blueviolet)](https://console.anthropic.com)
 [![FMCG](https://img.shields.io/badge/Domain-FMCG%20India-green)](#)
 
+**Topics:** `n8n` · `automation` · `workflow-automation` · `claude-ai` · `anthropic` · `ai-automation` · `fmcg` · `lead-generation` · `sales-automation` · `google-sheets` · `whatsapp-api` · `gmail`
+
 An **n8n workflow** that automates FMCG distributor/stockist outreach using Claude AI — built by someone who has actually done this work on the ground across Gujarat, Maharashtra, Rajasthan, and MP.
 
 ---
