@@ -1,0 +1,11 @@
+company_name,contact_name,phone,email,city,state,category,sub_category,annual_turnover,employee_count,years_in_business,stockist_or_distributor,brands_currently_carried,source
+Rajesh Beverages Distributors,Rajesh Patel,+91-98765-43210,rajesh@rajeshbev.com,Surat,Gujarat,beverages,soft drinks distributor,50-100 Cr,11-25,8,distributor,"Coca-Cola, Pepsi, Sting",IndiaMART
+Gujarat Modern Traders,Suresh Modi,+91-97654-32109,suresh@gmtraders.in,Ahmedabad,Gujarat,beverages,energy drink stockist,10-25 Cr,5-10,4,stockist,"Red Bull, Monster",IndiaMART
+Varachha Cold Drink Agency,Kiran Shah,+91-96543-21098,kiran@vcda.in,Surat,Gujarat,beverages,cold drink distributor,25-50 Cr,11-25,12,distributor,"Thums Up, Sprite, Limca",IndiaMART
+Pune Fresh Beverages,Anil Sharma,+91-95432-10987,anil@punefresh.com,Pune,Maharashtra,beverages,fruit juice distributor,5-10 Cr,1-5,2,stockist,"Real, Tropicana",IndiaMART
+Rajkot Beverage Partners,Dilip Mehta,+91-94321-09876,dilip@rkbp.com,Rajkot,Gujarat,beverages,soft drink distributor,15-25 Cr,5-10,6,distributor,"Coca-Cola, Maaza",Sulekha
+Nashik Trade House,Priya Desai,+91-93210-98765,priya@nashikth.com,Nashik,Maharashtra,beverages,water and soft drink stockist,8-15 Cr,5-10,5,stockist,"Bisleri, Sprite",IndiaMART
+Jodhpur Distribution Co.,Ramesh Vyas,+91-92109-87654,ramesh@jdc.in,Jodhpur,Rajasthan,beverages,cold drink distributor,20-40 Cr,11-25,9,distributor,"Pepsi, Mirinda, Slice",IndiaMART
+Baroda Fast Movers,Hemant Joshi,+91-91098-76543,hemant@bfm.co.in,Vadodara,Gujarat,beverages,energy drink distributor,30-50 Cr,11-25,7,distributor,"Sting, Red Bull",IndiaMART
+Surat Wholesale Hub,Mahesh Trivedi,+91-90987-65432,mahesh@swh.in,Surat,Gujarat,beverages,FMCG super stockist,75-150 Cr,26-50,15,distributor,Multiple national brands,IndiaMART
+Indore Modern Distributors,Sanjay Chouhan,+91-89876-54321,sanjay@imd.co.in,Indore,Madhya Pradesh,beverages,beverage distributor,40-80 Cr,11-25,10,distributor,"Coca-Cola, Sting",Sulekha

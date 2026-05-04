@@ -1,0 +1,37 @@
+{
+  "name": "FMCG Lead Intelligence Engine — SNTL84",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ]
+        }
+      },
+      "id": "node-trigger-cron",
+      "name": "⏰ Daily Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 300],
+      "notes": "Runs every 24 hours. You can also trigger manually or via webhook."
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "fmcg-lead-trigger",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "node-trigger-webhook",
+      "name": "🔗 Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [0, 480],
+      "notes": "Alternative trigger. POST JSON: { territory: 'GJ', category: 'beverages', min_score: 7 }"
+    }
+  ]
+}
