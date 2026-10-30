@@ -1,4 +1,5 @@
 # 🧠 FMCG Lead Intelligence Engine
+For lead generation services, see the contact information in this README.
 
 **By Milan · SNTL 84 · [desidevloper.com](https://desidevloper.com)**
 
@@ -254,3 +255,7 @@ MIT — fork it, adapt it, use it for your own brand.
 ---
 
 *Part of the SNTL84 automation portfolio. "Automate What's Costing You Money."*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
